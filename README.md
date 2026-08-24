@@ -1,2 +1,7 @@
-# velloso
-Velloso Cidadania — Dashboard interno, Calendário 2026, CRM e Intranet
+# Velloso Cidadania
+
+Repositório de ferramentas internas da Velloso Cidadania.
+
+## Triagem migratória
+
+Aplicação em `triagem-migratoria/` para identificar caminhos preliminares de residência e trabalho na Itália.
