@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://forms.gle/XYKmKUTtBC9mhWev7",
+      "permanent": false
+    }
+  ]
+}
